@@ -1,6 +1,69 @@
 id,label
-EID11571c92-3940-4f42-a6cd-5e2b1c6f4d93,Atom   
-EIDc837298f-a10e-42d1-88f2-f1415cbbb463,CSW 
-EIDeec9d674-d94b-4d8d-b744-1309c6cae1d2,WMS     
-EID11571c92-3940-4f42-a6cd-5e2b1c6f4d93,WFS                                                                                                                                                                         |
-EID074570ad-d720-47b3-af79-d54201793404,WCS
+EID59692c11-df86-49ad-be7f-94a1e1ddd8da,Common Requirements for ISO/TC 19139:2007 based INSPIRE metadata records.
+EIDe4a95862-9cc9-436b-9fdd-a0115d342350,Conformance Class 1: INSPIRE data sets and data set series baseline metadata.
+EID2be1480a-fe42-40b2-9420-eb0e69385c80,Conformance Class 2: INSPIRE data sets and data set series interoperability metadata.
+EID0b86f7a3-2947-4841-823d-6a00d8e06d70,Conformance Class 2b: INSPIRE data sets and data set series metadata for Monitoring
+EID8f869e23-c9e9-4e86-8dca-be30ff421229,Conformance Class 3: INSPIRE Spatial Data Service baseline metadata.
+EID606587df-65a8-4b7b-9eee-e0d94daaa42a,Conformance Class 4: INSPIRE Network Services metadata.
+EID8db54d8a-8578-4959-b891-5394d9f53a28,Conformance Class 5: INSPIRE Invocable Spatial Data Services metadata.
+EID7514777a-6cb8-499c-acd5-912496dc84e9,Conformance Class 6: INSPIRE Interoperable Spatial Data Services metadata.
+EIDa593a7ad-42d9-46d0-985d-9dff3e684428,Conformance Class 7: INSPIRE Harmonised Spatial Data Services metadata.
+EIDc837298f-a10e-42d1-88f2-f1415cbbb463,Conformance Class: Discovery Service - CSW Core
+EIDed2d3501-d700-4ff9-b9bf-070dece8ddbd,Conformance Class: Download Service - Direct WFS
+EID11571c92-3940-4f42-a6cd-5e2b1c6f4d93,Conformance Class: Download Service - Pre-defined Atom
+EID0ff73873-5601-41ff-8d92-3fb1fbba3cf2,Conformance Class: Download Service - Pre-defined SOS
+EID174edf55-699b-446c-968c-1892a4d8d5bd,Conformance Class: Download Service - Pre-defined WFS
+EID074570ad-d720-47b3-af79-d54201793404,Conformance Class: Download Service - WCS Core
+EIDeec9d674-d94b-4d8d-b744-1309c6cae1d2,Conformance Class: View Service - WMS
+EID550ceacf-b3cb-47a0-b2dd-d3edb18344a9,Conformance Class: View Service - WMTS
+EID1f9bc92a-5879-4e9b-bcbe-1d2d0cab0aab,"Conformance class: Application Schema, Cadastral parcel"
+EID8aaef94b-6a4d-47ab-a5d0-70ad5cb28b08,"Conformance class: Application schema, Addresses"
+EIDddecef4b-89a3-4f9d-9246-a50b588fa5a2,"Conformance class: Application schema, Administrative Units"
+EID6800c834-b4e0-4631-9209-73530fb9ccee,"Conformance class: Application schema, Air Transport Networks"
+EID731621b9-2daa-49fd-99ef-9279b7f335b5,"Conformance class: Application schema, Cable Transport Networks"
+EID0fc46305-c623-422b-b7d7-251c3b86eb7f,"Conformance class: Application schema, Geographical Names"
+EIDe008001b-5233-4081-a1ae-515d7702ce02,"Conformance class: Application schema, Hydrography - Network"
+EID45133c90-1929-405c-867d-9648b0620bf7,"Conformance class: Application schema, Hydrography - Physical Waters"
+EID117562c2-d6e1-4345-9f7b-cba229cf6685,"Conformance class: Application schema, Maritime Units"
+EID4c53a8c7-7cac-4531-982b-d03eb48ffa77,"Conformance class: Application schema, Protected Sites Simple"
+EIDe2610a9f-6432-489d-8238-92b1193e7a3d,"Conformance class: Application schema, Rail Transport Networks"
+EID14986e54-74c4-43b0-979b-d0d3e5cd0e8c,"Conformance class: Application schema, Road Transport Networks"
+EID4441cbde-371f-4899-90b3-145f4fd08ebc,"Conformance class: Application schema, Transport Networks Common"
+EIDeb35a20f-188d-4fd3-aee1-dd07eb3c3efa,"Conformance class: Application schema, Water Transport Networks"
+EID9c31fa6e-1fab-4345-bf29-6d2c129de312,"Conformance class: Data consistency, Addresses"
+EIDacc5931c-4ff0-499f-b916-3cda1603456b,"Conformance class: Data consistency, Administrative Units"
+EID92032cdb-db88-42aa-96c0-70a1af9e68b1,"Conformance class: Data consistency, Cadastral Parcels"
+EID61070ae8-13cb-4303-a340-72c8b877b00a,"Conformance class: Data consistency, General requirements"
+EIDa32f76c7-f1d3-4d70-83ef-d51d2545fa2e,"Conformance class: Data consistency, Geographical Names"
+EIDd0b58f38-98ae-43a8-a787-9a5084c60267,"Conformance class: Data consistency, Hydrography"
+EID7831c8b4-f666-4534-838a-137b30bfecbe,"Conformance class: Data consistency, Protected Sites"
+EID733af9a0-312b-4f71-9aa2-977cd2134d23,"Conformance class: Data consistency, Transport Networks"
+EIDe6800faf-2e56-47df-831a-75a96b35f33d,"Conformance class: GML application schemas, Addresses"
+EID47c569bc-677d-4ce3-8411-e2b29189332a,"Conformance class: GML application schemas, Administrative Units"
+EID18b742d0-15eb-421f-bbec-7c8c5cf7ee1a,"Conformance class: GML application schemas, Cadastral Parcels"
+EID02b7b0cb-429a-4f4e-b0db-988464fb9496,"Conformance class: GML application schemas, Geographical Names"
+EID81b070d3-b17f-430b-abee-456268346912,"Conformance class: GML application schemas, Hydrography"
+EID8222c253-8468-4b94-a46b-2d1af1698a65,"Conformance class: GML application schemas, Protected Sites"
+EID9af1c865-1cf0-43ff-9250-069df01b0948,"Conformance class: GML application schemas, Transport Networks"
+EID09820daf-62b2-4fa3-a95f-56a0d2b7c4d8,"Conformance class: INSPIRE GML application schemas, General requirements"
+EID545f9e49-009b-4114-9333-7ca26413b5d4,Conformance class: INSPIRE GML encoding
+EIDec7323d5-d8f0-4cfe-b23a-b826df86d58c,Conformance class: INSPIRE Profile based on EN ISO 19115 and EN ISO 19119
+EID334bbd38-378d-4a44-8a19-5d00df919ec0,"Conformance class: Information accessibility, Addresses"
+EIDee28b75e-5c80-4370-838d-ab1b18e30b13,"Conformance class: Information accessibility, Administrative Units"
+EIDc4fbae00-3070-49fa-b803-24c66c31ac70,"Conformance class: Information accessibility, Cadastral Parcels"
+EID499937ea-0590-42d2-bd7a-1cafff35ecdb,"Conformance class: Information accessibility, General requirements"
+EIDc3379b85-853e-4a35-8c3d-b64191d94587,"Conformance class: Information accessibility, Geographical Names"
+EID893b7541-c9cb-4e0a-9f84-5d55cad1866c,"Conformance class: Information accessibility, Hydrography"
+EIDb529e8fa-b9f8-4758-acea-1d2af744599f,"Conformance class: Information accessibility, Protected Sites"
+EIDdf5db9a4-b15f-4193-a6ff-6e9951af46f5,"Conformance class: Information accessibility, Transport Networks"
+EID9a31ecfc-6673-43c0-9a31-b4595fb53a98,Conformance class: Metadata for interoperability
+EIDdbcc48ae-6871-4444-8e95-547bc22aacb2,"Conformance class: Reference Systems, Cadastral Parcels"
+EID6985a681-fd81-4448-83e8-061758b9ca8c,"Conformance class: Reference systems, Addresses"
+EIDcafb75f8-5deb-4cca-89df-d3189322e97f,"Conformance class: Reference systems, Administrative Units"
+EID63f586f0-080c-493b-8ca2-9919427440cc,"Conformance class: Reference systems, General requirements"
+EID1620bd27-b881-48a2-bf2b-301541e035f4,"Conformance class: Reference systems, Geographical Names"
+EID122b2f38-302f-4271-9653-69cf86fcb5c4,"Conformance class: Reference systems, Hydrography"
+EID828410c1-53f2-4683-bded-481ad9d4d3e9,"Conformance class: Reference systems, Protected Sites"
+EID9d35024d-9dd7-43a9-afff-d5aea5f51595,"Conformance class: Reference systems, Transport Networks"
+EIDe3500038-e37c-4dcf-806c-6bc82d585b3b,Conformance class: XML encoding of ISO 19115/19119 metadata
+EID95a1b6fc-2b55-3d43-9502-3b8b605bda10,WFS 2.0 (OGC 09-025r2/ISO 19142) Conformance Test Suite
